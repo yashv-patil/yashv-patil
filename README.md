@@ -20,11 +20,15 @@
 
 💻 Passionate about Java Backend Development
 
-🌱 Currently Learning
+##  💼 Core Competencies
 
+- Core Java
+- Advanced Java 
 - Spring Boot
-- Hibernate & JPA
-- REST APIs
+- REST API Development
+- SQL (MySQL)
+- MongoDB
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 
 🎯 Looking for
@@ -119,15 +123,15 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/yashv-patil">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:yashvirendrasingpatil@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/yashv-patil">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
