@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Yash Patil
 
-### 🚀 Java Backend Developer | MCA Graduate 2026 | Open to Work
+### 🚀 Java Backend Developer | C++ Programmer | MCA Graduate 2026 | Open to Work
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;C%2B%2B+Programmer;REST+API+Developer;Always+Learning+New+Things" />
 
