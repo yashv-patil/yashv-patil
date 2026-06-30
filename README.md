@@ -61,7 +61,7 @@
 - REST API Development
 - CRUD Operations
 - Spring Boot
-- MySQL
+- MongoDB
 - Layered Architecture
 
 ---
