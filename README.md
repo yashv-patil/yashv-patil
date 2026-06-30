@@ -77,9 +77,8 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashv-patil&show_icons=true&theme=default" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashv-patil&show_icons=true&theme=github_dark" />
+
 ---
 
 # 🔥 GitHub Streak
